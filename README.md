@@ -49,3 +49,20 @@ Run a specific day:
 cd 2026
 cargo run --bin day01
 ```
+
+### 2027 (Rust)
+
+Solutions for 2027 using the same Rust structure as 2025.
+
+```
+2027/
+  src/bin/dayXX.rs        - Day solutions
+  input/dayXX/            - Inputs (input.txt, sample.txt)
+  Cargo.toml              - Package configuration
+```
+
+Run a specific day:
+```bash
+cd 2027
+cargo run --bin day01
+```
